@@ -19,8 +19,6 @@ A simple chatbot created using Python that responds to user input based on prede
 1. Open the file `chatbot.py` in Google Colab or any Python environment.
 2. Run the script and interact with the chatbot via the terminal.
 
-## 🎥 Demo Video
-[Click here to watch the demo](PASTE_YOUR_VIDEO_LINK_HERE)
 
 ## ✅ Status
 ✔️ Project completed and tested.
